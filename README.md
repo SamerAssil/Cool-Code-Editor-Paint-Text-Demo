@@ -8,7 +8,6 @@ Keyword Glow: Adds a bloom effect to reserved keywords.
 
 Visual Mapping: Replaces begin ... end with { ... } in the view layer (source code remains unchanged).
 
-Custom Painting: Direct hooks into the IDE text rendering pipeline.
 
 🚀 How to Test
 
