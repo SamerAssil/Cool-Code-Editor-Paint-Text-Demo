@@ -1,6 +1,6 @@
 🛠 Cool-Code-Editor-Paint-Text-Demo
 
-An experimental IDE plugin using ToolsAPI to customize the editor's rendering engine. Just a "playing around" project to push the limits of IDE visuals.
+An experimental IDE plugin using ToolsAPI to customize the editor. Just a "playing around".
 
 ✨ Key Experiments
 
